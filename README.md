@@ -1,7 +1,10 @@
 # Trabajo Práctico N° 1 - Aprendizaje Profundo
- **Alumno:** Daniel Cazabat
+**Alumno:** Daniel Cazabat
+
 **Materia:** Inteligencia Artificial / Aprendizaje Profundo
+
 **Fecha:** 26/10/2026
+
 ---
 ## 📁 Contenido del Repositorio
 Este repositorio contiene la entrega del primer trabajo práctico introductorio
