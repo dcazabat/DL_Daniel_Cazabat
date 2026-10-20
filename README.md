@@ -1,4 +1,6 @@
-# Trabajo Práctico N° 1 - Aprendizaje Profundo
+# Respositorio Diplomatura en IA - UTN
+
+## Trabajo Práctico N° 1 - Aprendizaje Profundo
 **Alumno:** Daniel Cazabat
 
 **Materia:** Inteligencia Artificial / Aprendizaje Profundo
@@ -6,11 +8,11 @@
 **Fecha:** 26/10/2026
 
 ---
-## 📁 Contenido del Repositorio
+### 📁 Contenido del Repositorio
 Este repositorio contiene la entrega del primer trabajo práctico introductorio
 - `TP1_Daniel_Cazabat.ipynb`: Cuaderno de Google Colab con ejercicios de presupuesto personal, condicionales `if/else`, ---
  
-## 💡 Conceptos Aprendidos en esta Práctica
+### 💡 Conceptos Aprendidos en esta Práctica
 1. **Variables:** Guardar datos en nombres representativos (`ingreso_mensual`, `comida`).
 2. **Operaciones:** Uso de operaciones matemáticas automáticas (`+`, `-`, `*`, `/`).
 3. **Condicionales (`if`/`else`):** Lógica para la toma de decisiones según los valores ingresados.
